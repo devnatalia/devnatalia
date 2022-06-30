@@ -1,4 +1,4 @@
-### Olá! Eu sou a Natália Oliveira. 
+### Olá!
 
 - 🌱 Estudando C#
 - 📫 Contate-me no e-mail: nataliaoliveira099@gmail.com
