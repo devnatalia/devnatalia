@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Natália Oliveira. 
 
-- 🌱 Estudando C#
-- 📫 Contate-me no e-mail: nataliaoliveira099@gmail.com
-- 😄 Pronouns: ela/dela
+- 🌱 Produzindo
 
 <div>
   <a href="https://github.com/devnatalia">
